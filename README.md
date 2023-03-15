@@ -1,4 +1,4 @@
-# string-Obfuscator
+# String-Obfuscator
 Modify characters to prevent social platforms from detecting duplication of content. 用于伪原创，防止社交平台检测内容重复性。
 
 # 使用方法
