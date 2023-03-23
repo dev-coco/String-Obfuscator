@@ -1,6 +1,9 @@
 # String-Obfuscator
 Modify characters to prevent social platforms from detecting duplication of content. 用于伪原创，防止社交平台检测内容重复性。
 
+# 效果预览
+https://dev-coco.github.io/post/String-Obfuscator/
+
 # 使用方法
 ## 字符混淆
 使用 `stringObfuscation` 函数，第一个参数放入需要混淆的内容，第二个参数放入混淆的类型，运行后会输出混淆后的字符。
